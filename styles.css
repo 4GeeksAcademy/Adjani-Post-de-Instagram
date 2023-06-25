@@ -1,0 +1,61 @@
+
+.BloqueSuperior {
+    background-color:rgb(218, 211, 211);
+    height: 55px;
+    font-family: Roboto; 
+    padding-top: 50px;
+}
+.flexbox {
+    background-color: white;
+    width: 600px;
+    height: 55px;
+    display: flex;
+    margin:auto;
+    border-width: 20px;
+    justify-content: space-between ;
+    align-items: center;
+}
+.LogoYnombre{
+    display: flex;
+    align-items: center;
+}
+.Html {
+   font-size: xx-large;
+   padding-right: 10px;
+   padding-left: 10px;
+}
+.dropmenu {
+    font-size: xx-large;
+    padding-right: 10px;
+}
+.BloqueInferior {
+    background-color:rgb(218, 211, 211);
+    height: 635px;
+    font-family: Roboto;
+}
+.Body {
+    background-color: white;
+    width: 600px;
+    height: 600px;
+    margin:auto;
+}
+img {
+    width: 600px;
+    height: 400px;
+}
+.interacción {
+    display: flex;
+    justify-content: space-between ;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size:large;
+}
+.Likes {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.Parrafo {
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+}
